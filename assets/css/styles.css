@@ -797,8 +797,8 @@ img {
   box-shadow: 0 4px 16px hsla(0, 0%, 0%, 0.1);
   color: var(--black-color);
   display: inline-flex;
-  padding: 6px;
-  font-size: 1.25rem;
+  padding: 10px;
+  font-size: 1.3rem;
   border-radius: 0.5rem;
   z-index: var(--z-tooltip);
   transition: bottom 0.4s, transform 0.4s;
